@@ -1,0 +1,201 @@
+.top-container {
+  background-color: #EAF6F6;
+  /*margin:0;*/
+  padding: 100px;
+}
+div{
+  margin:0;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Comic Neue', cursive;
+  color: #40514E;
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  margin-top: 50px;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+p {
+  margin: 0;
+  color: #40514;
+  font-size:125%;
+}
+hr{
+  color: #EAF6F6;
+  border-style:dotted;
+  border-width: 10px;
+  width: 5%;
+  border-top:0;
+  margin-bottom: 50px;
+}
+
+.middle-container {
+  background-color: #f9f9f9;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 130px;
+  text-align: center;
+
+}
+.btn
+{
+  position: relative;
+  top: 100px;
+  background-color: #66BFBF;
+}
+
+.pro {
+  text-decoration: underline;
+
+}
+.programmer
+{
+ margin-top: 0;
+}
+.profile{
+ text-align: center;
+ margin: 0 auto 100px auto;
+}
+.profile-text{
+  width: 30%;
+  font-size: 150%;
+  /*display: inline-block;*/
+  font-weight: bolder;
+  margin: auto;
+}
+.bottom-cloud {
+  position: absolute;
+  bottom: 500px;
+  left: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+#profile-picture {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
+
+.skill-row-2{
+  width: 50%;
+  margin: 150px auto 120px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.footer-link{
+  position: relative;
+  top: 40px;
+}
+.watermark{
+  position: relative;
+  font-size: 80%;
+  top: 60px;
+  color: #EAF6F6;
+}
+.contact-me{
+  height: 400px;
+  text-align: center;
+}
+
+#contact-heading{
+  width: 50%;
+  display: inline-block;
+  margin-bottom: 45px;
+}
+#giffy-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+#computer-image{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+#linkedin{
+  position: relative;
+  right: 40px;
+}
+#website{
+  position: relative;
+  left: 40px;
+}
+
+.btn {
+	background-color:#11999E;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.btn:hover {
+	background-color:#5cbf2a;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
